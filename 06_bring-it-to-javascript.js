@@ -63,6 +63,6 @@ let order = [
 // checking
 
 console.log(products); // check all items
-console.log(products[1].product_name); // check 2nd product, show product name
-console.log(shoppingCart); // check all item in the cart
+console.log(products[1].product_name); // show mixed berry yogurt
+console.log(shoppingCart); // check all item in the cart: PRO01 and PRO05
 console.log(order[0]);
