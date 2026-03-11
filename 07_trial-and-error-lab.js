@@ -86,4 +86,5 @@ function addToCart(product_id, product_quantity) //กำหนด func addtoCar
 console.log(addToCart("PRO04", 1)); // ลอง Jerky Stick ที่ stock = 0
 console.log(addToCart("PRO02", 14));
 
-// scenario: calculate total
+// scenario 2: calculate total
+// scenario 3: 
