@@ -7,3 +7,6 @@ VALUES ('ORD001', 'U001', 115.00, 'Shipped'),
        ('ORD003', 'U004', 80.00, 'Pending'),
        ('ORD004', 'U005', 145.00, 'Shipped'),
        ('ORD005', 'U008', 55.00, 'Paid');
+
+SELECT *
+FROM orderbill;

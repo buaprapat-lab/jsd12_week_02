@@ -11,3 +11,6 @@ VALUES ('OI001', 'ORD001', 'PRO01', 1, 60.00),
        ('OI007', 'ORD004', 'PRO01', 1, 60.00),
        ('OI008', 'ORD004', 'PRO03', 1, 90.00),
        ('OI009', 'ORD005', 'PRO05', 1, 55.00);
+
+SELECT *
+FROM orderitems;

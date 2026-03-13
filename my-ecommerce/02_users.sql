@@ -12,3 +12,6 @@ VALUES ('U001', 'Sato Foster', 'sato.foster@doggieclub.com', 'hashed_pw_001', '1
        ('U008', 'Priya Sharma', 'priya.sharma@doggieclub.com', 'hashed_pw_008', '12 MG Road, Bangalore', 'customer'),
        ('U009', 'Felix Müller', 'felix.muller@doggieclub.com', 'hashed_pw_009', '77 Unter den Linden, Berlin', 'customer'),
        ('U010', 'Jenny Tanaka', 'jenny.tanaka@doggieclub.com', 'hashed_pw_010', '500 Namba, Osaka', 'admin');
+
+SELECT *
+FROM users;

@@ -12,3 +12,6 @@ VALUES ('P001', 'U001', 'Bobo', 'Dalmatian', 7.0, '25 years life expectancy'),
        ('P008', 'U008', 'Dosa', 'Labrador', 5.0, 'Reduce allergy symptoms'),
        ('P009', 'U009', 'Bratwurst','Dachshund', 8.0, 'Support aging spine'),
        ('P010', 'U010', 'Mochi', 'Pomeranian', 1.0, 'Boost immunity from puppyhood');
+
+SELECT *
+FROM pets;

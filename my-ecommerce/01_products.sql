@@ -10,3 +10,6 @@ VALUES ('PRO01', 'Spirulina Powder', 'Premium superfood algae powder for health 
        ('PRO03', 'Freeze-dried Salmon','Premium superfood algae powder for health and smoothies.', 90, 18, true, 'High-performance Proteins'),
        ('PRO04', 'Jerky Sticks', 'Premium superfood algae powder for health and smoothies.',40, 0, false, 'High-performance Proteins'),
        ('PRO05', 'Bone Broth', 'Premium superfood algae powder for health and smoothies.', 55, 30, true, 'Vitality Hydration');
+
+SELECT *
+FROM products;
